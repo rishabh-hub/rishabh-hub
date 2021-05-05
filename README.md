@@ -36,7 +36,7 @@ My name is Rishabh and I"m an Android Developer who is passionate about building
  ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/rishabh-singh-a1726b1a6/">
-  <img align="left" alt="Rishabh's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rishabh's LinkedIN" width="30px" src="https://github.com/rishabh-hub/rishabh-hub/blob/20b10e5c448256a2b597878903288dc22e9ef7dc/iconfinder_LinkedIn_1298749.svg" />
 </a>
 <a href="mailto:rishabh.1056@gmail.com">
   <img align="center" width="40px" src="https://github.com/rishabh-hub/rishabh-hub/blob/cbf2d163a883f701c716d682db805c0475c82e3e/iconfinder_Google_Icons-02_7123031.svg" />
