@@ -2,7 +2,7 @@
 <!--
 
 -->
-My name is Rishabh and I"m an Android Developer who is passionate about building tech, and learning new technologies. \
+My name is Rishabh and Im an Android Developer who is passionate about building tech, and learning new technologies. \
 🌱 &nbsp;I'm on track for learning more about Blockchain,Web development and Cross-Platform development.\
 ✍️ &nbsp;In my free time, I pursue UI/UX design and competitive coding as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for working on projects.\
