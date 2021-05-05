@@ -39,11 +39,11 @@ My name is Rishabh and I"m an Android Developer who is passionate about building
   <img align="center" alt="Rishabh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:rishabh.1056@gmail.com">
-  <img align="center" alt="Rishabh's Gmail" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+  <img align="center" alt="Rishabh's Gmail" width="22px" src="https://github.com/rishabh-hub/rishabh-hub/blob/cbf2d163a883f701c716d682db805c0475c82e3e/iconfinder_Google_Icons-02_7123031.svg" />
 </a>
 </p>
 
- <!--
+ <!--https://github.com/rishabh-hub/rishabh-hub/blob/cbf2d163a883f701c716d682db805c0475c82e3e/iconfinder_Google_Icons-02_7123031.svg
  ![](https://visitor-badge.glitch.me/badge?page_id=rishabh-hub)
  -->
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishabh-hub&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
