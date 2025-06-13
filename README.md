@@ -43,6 +43,9 @@ I'm Rishabh and I'm an Android and Web Developer who is passionate about buildin
  
  ### 🤝🏻 &nbsp;Connect with Me
 
+<a href="https://x.com/rishabh_1056">
+  <img align="left" alt="Rishabh's X" width="30px" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwMCIgaGVpZ2h0PSIxMjI3IiB2aWV3Qm94PSIwIDAgMTIwMCAxMjI3IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPiA8cGF0aCBkPSJNNzE0LjE2MyA1MTkuMjg0TDExNjAuODkgMEgxMDU1LjAzTDY2Ny4xMzcgNDUwLjg4N0wzNTcuMzI4IDBIMEw0NjguNDkyIDY4MS44MjFMMCAxMjI2LjM3SDEwNS44NjZMNTE1LjQ5MSA3NTAuMjE4TDg0Mi42NzIgMTIyNi4zN0gxMjAwTDcxNC4xMzcgNTE5LjI4NEg3MTQuMTYzWk01NjkuMTY1IDY4Ny44MjhMNTIxLjY5NyA2MTkuOTM0TDE0NC4wMTEgNzkuNjk0NEgzMDYuNjE1TDYxMS40MTIgNTE1LjY4NUw2NTguODggNTgzLjU3OUwxMDU1LjA4IDExNTAuM0g4OTIuNDc2TDU2OS4xNjUgNjg3Ljg1NFY2ODcuODI4WiIgZmlsbD0iYmxhY2siLz48L3N2Zz4=" />
+</a>
 <a href="https://www.linkedin.com/in/rishabh-singh-a1726b1a6/">
   <img align="left" alt="Rishabh's LinkedIN" width="30px" src="https://github.com/rishabh-hub/rishabh-hub/blob/20b10e5c448256a2b597878903288dc22e9ef7dc/iconfinder_LinkedIn_1298749.svg" />
 </a>
