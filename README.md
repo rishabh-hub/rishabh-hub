@@ -4,7 +4,6 @@
 
 I like finding hidden semantics where others see noise — whether that's extracting gameplay narratives from Rocket League stats and matching them to music moods, or turning voice recordings into lullabies. Currently deep-diving into agentic architectures, multi-agent LLM pipelines, and production systems that process thousands of events per minute.
 
-BITS Pilani '24 · M.Sc. (Hons.) & B.E. (Hons.)
 
 ---
 
