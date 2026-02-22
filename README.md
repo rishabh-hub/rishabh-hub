@@ -1,73 +1,79 @@
-### <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> </h1>
-<!--
+# Hey, I'm Rishabh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 
--->
-I'm Rishabh and I'm an Android and Web Developer who is passionate about building tech, and learning new technologies. \
-🌱 &nbsp;I'm on track for learning more about Blockchain,Web development and Cross-Platform development.\
-✍️ &nbsp;In my free time, I try to pursue UI/UX design,video editing and creating animations,competitive coding as side hustles.\
-💬 &nbsp;Feel free to reach out to me for working on projects.\
-✉️ &nbsp;You can shoot me an email at rishabh.1056@gmail.com! I'll try to respond as soon as I can.
-### 🛠 &nbsp;Tech Stack
+**Fullstack engineer obsessed with building AI agents and bridging inferences across unrelated domains.**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)&nbsp;
-![C++](		https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-<br />
-![HTML](	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)&nbsp;
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-<br />
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br />
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+I like finding hidden semantics where others see noise — whether that's extracting gameplay narratives from Rocket League stats and matching them to music moods, or turning voice recordings into lullabies. Currently deep-diving into agentic architectures, multi-agent LLM pipelines, and production systems that process thousands of events per minute.
 
+BITS Pilani '24 · M.Sc. (Hons.) & B.E. (Hons.)
 
-## &#x1f4c8; GitHub Stats
+---
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh-hub&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+### What I'm Building
 
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-hub&theme=radical" alt="Rishabh" /></p>
- 
- <br />
- 
- ### 🤝🏻 &nbsp;Connect with Me
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [**Replay Rhythms**](https://rocket-league-music.vercel.app/) | Multi-agent LLM pipeline that extracts gameplay narratives and bridges them to music moods at ~$0.01/rec | Next.js, Python Flask, OpenAI, Supabase, Vercel |
+| [**LullaBy-You**](https://lullaby-you.vercel.app/) | Transforms 30s voice recordings into personalized lullabies via real-time voice cloning | Next.js, Tone.js, ElevenLabs API |
+| **Lab Testing Platform** | E-commerce platform for scientific instrument booking — 320+ orders, 91.67% on-time delivery | Medusa v2, Next.js 15, PostgreSQL, Razorpay, Mixpanel |
+| **Energy Management System** | Real-time IoT dashboard processing 6000+ data packets/min with 30s interval updates | Next.js, PostgreSQL, MongoDB Time Series, OpenTelemetry |
+| **Battery Fleet Monitor** | Fleet monitoring platform integrated with 2 companies, boosting battery cyclability by 25% | Next.js, PostgreSQL, DynamoDB, AWS Lambda |
 
+---
 
-<a href="https://www.linkedin.com/in/rishabh-singh-a1726b1a6/">
-  <img align="left" alt="Rishabh's LinkedIN" width="30px" src="https://github.com/rishabh-hub/rishabh-hub/blob/20b10e5c448256a2b597878903288dc22e9ef7dc/iconfinder_LinkedIn_1298749.svg" />
-</a>
-<a href="mailto:rishabh.1056@gmail.com">
-  <img align="center" width="40px" src="https://github.com/rishabh-hub/rishabh-hub/blob/cbf2d163a883f701c716d682db805c0475c82e3e/iconfinder_Google_Icons-02_7123031.svg" />
-</a>
+### Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Libraries**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Infrastructure & Observability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabh-hub&show_icons=true&locale=en&layout=compact&theme=radical" alt="rishabh-hub" />
 </p>
 
- <!--https://github.com/rishabh-hub/rishabh-hub/blob/cbf2d163a883f701c716d682db805c0475c82e3e/iconfinder_Google_Icons-02_7123031.svg
- ![](https://visitor-badge.glitch.me/badge?page_id=rishabh-hub)
- -->
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rishabh-hub&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
--->
-<!--
-**rishabh-hub/rishabh-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh-hub&theme=radical" alt="rishabh-hub" />
+</p>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Let's Connect
+
+<a href="https://www.linkedin.com/in/rishabh-singh-a1726b1a6/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rishabh.1056@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
