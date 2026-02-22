@@ -14,9 +14,6 @@ BITS Pilani '24 · M.Sc. (Hons.) & B.E. (Hons.)
 |---------|-------------|-------|
 | [**Replay Rhythms**](https://rocket-league-music.vercel.app/) | Multi-agent LLM pipeline that extracts gameplay narratives and bridges them to music moods at ~$0.01/rec | Next.js, Python Flask, OpenAI, Supabase, Vercel |
 | [**LullaBy-You**](https://lullaby-you.vercel.app/) | Transforms 30s voice recordings into personalized lullabies via real-time voice cloning | Next.js, Tone.js, ElevenLabs API |
-| **Lab Testing Platform** | E-commerce platform for scientific instrument booking — 320+ orders, 91.67% on-time delivery | Medusa v2, Next.js 15, PostgreSQL, Razorpay, Mixpanel |
-| **Energy Management System** | Real-time IoT dashboard processing 6000+ data packets/min with 30s interval updates | Next.js, PostgreSQL, MongoDB Time Series, OpenTelemetry |
-| **Battery Fleet Monitor** | Fleet monitoring platform integrated with 2 companies, boosting battery cyclability by 25% | Next.js, PostgreSQL, DynamoDB, AWS Lambda |
 
 ---
 
